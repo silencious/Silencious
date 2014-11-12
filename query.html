@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+    <style type="text/css">
+        div#info {
+            display: block;
+            position: absolute;
+            left: 5%;
+            top: 1%;
+        }
+
+        div#info h3 {
+            text-align: center;
+        }
+
+        div#info ul {
+            text-align: left;
+            left: 10%;
+        }
+
+        div#info dl {
+            position: relative;
+            text-align: left;
+            left: 10%;
+        }
+        button#next{
+            font-size: 24px;
+            position: relative;
+            text-align:left;
+            left:10%;
+        }
+        div#images {
+            display: none;
+        }
+        div#end{
+            display: none;
+        }
+    </style>
+    <script src="jquery.js"></script>
+    <script type="text/javascript" src="http://counter.sina.com.cn/ip/" charset="gb2312"></script>
+    <script>
+        var results = new Array(100);
+        function showImage(){
+            var checked = 0;
+            var s = "opt";
+            for(var i=1; i<=5; i++){
+                var radios = document.getElementsByName(s+i);
+                if(radios[0].checked){
+                    results[i-1] = 1;
+                    continue;
+                }
+                if(radios[1].checked){
+                    results[i-1] = 2;
+                    continue;
+                }
+                return;
+            }
+            var info = document.getElementById("info");
+            info.style.display="none";
+            var images = document.getElementById("images");
+            images.style.display="block";
+        }
+        function save(){
+        }
+        function end() {
+            var images = document.getElementById("images");
+            images.style.display="none";
+            var end = document.getElementById("end");
+            end.style.display="block";
+        }
+        function changeImage(choice) {
+            left = document.getElementById('left');
+            right = document.getElementById('right');
+            var lname = left.src, rname = right.src;
+            var mark;
+            if ((mark = lname.indexOf('.jpg')) == -1)
+                mark = rname.indexOf('.jpg');
+            mark -= 2;
+            var num = parseInt(lname.substring(mark, mark + 2));
+            results[num - 11 + 5] = choice;
+            if (num == 14) {
+                save();
+                end();
+            }
+            else {
+                left.src = rname.substring(0, mark) + (num + 1).toString() + ".jpg";
+                right.src = lname.substring(0, mark) + (num + 1).toString() + ".jpg";
+            }
+        }
+    </script>
+</head>
+
+<body>
+<div id="info">
+    <h3 align="middle">感谢您参与我们的调查！</h3>
+    <ul style="list-style-type:none">
+        <li>&#160;&#160;&#160;&#160;本次调查的目的是研究性格与穿衣风格倾向之间的联系。<br/>我们将首先了解一些您的基本情况，之后会为您显示几组图片，<br/>请您从中选出更喜欢的一张。<br/>（PS：多图杀喵，手机党请全程保持WiFi畅通）
+        </li>
+        <li>
+            <dl>
+                <dt>1.您的性别：</dt>
+                <dd><label><input type="radio" value=1 name="opt1">男</label></dd>
+                <dd><label><input type="radio" value=2 name="opt1">女</label></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt>2.平时，您更喜欢：</dt>
+                <dd><label><input type="radio" value=1 name="opt2">和朋友待在一起</label></dd>
+                <dd><label><input type="radio" value=2 name="opt2">在家做自己的事</label></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt>3.您更愿意：</dt>
+                <dd><label><input type="radio" value=1 name="opt4">理智分析</label></dd>
+                <dd><label><input type="radio" value=2 name="opt4">用心感受</label></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt>4.对于传统，您更倾向于：</dt>
+                <dd><label><input type="radio" value=1 name="opt3">遵守</label></dd>
+                <dd><label><input type="radio" value=2 name="opt3">颠覆</label></dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt>5.对于小组作业，您的态度是：</dt>
+                <dd><label><input type="radio" value=1 name="opt5">比起与人合作，我更愿意自己完成</label></dd>
+                <dd><label><input type="radio" value=2 name="opt5">大家通力合作，往往有更好的结果</label></dd>
+            </dl>
+        </li>
+        <li>
+            <button id="next" type="button" onclick="showImage()">Next-></button>
+        </li>
+    </ul>
+</div>
+<div id="images">
+    <h2 align="middle">请从以下两张图片中选出你更喜欢的一张</h2>
+    <table border=0 width="60%" align="center">
+        <tr>
+            <td align="center">
+                <img id="left" onclick="changeImage(1)" src="query/a11.jpg" width="80%">
+            </td>
+            <td align="center">
+                <img id="right" onclick="changeImage(2)" src="query/b11.jpg" width="80%">
+            </td>
+        </tr>
+    </table>
+</div>
+<div id="end">
+    <h3 align="middle">您已完成所有问题<br/>感谢您参与我们的调查！</h3>
+</div>
+</body>
+</html>
