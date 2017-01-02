@@ -1,123 +1,32 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+# About Me
+Currently a Unity3D developer (Intern) for the mobile game [横扫千军](https://hs.xd.com/) at [X.D. Network Inc.](https://www.xd.com)  
+Will graduate from Shanghai Jiao Tong University in 2017.6 and receive Bachelor degree in Software Engineering.  
+My Github Profile: [github.com/silencious](https://www.github.com/silencious)  
+Email Address: tjh0473@gmail.com  
 
 * * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# Projects
+## [SoulSummoner](https://github.com/silencious/SoulSummoner)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/CzDHDcZ0RRg" frameborder="0" allowfullscreen></iframe>  
+As a Soul Summoner, take an adventure in the amazing world of elements, accumulate power from your surroundings, and summon servants to fight approaching enemies.  
+Built with Unity3D and 3ds Max.
+## ChemIt
+<iframe width="640" height="360" src="https://www.youtube.com/embed/hXdAZWFeWOI" frameborder="0" allowfullscreen></iframe>  
+Do chemical experiments on your home computer, with your hands free from mouse and keyboard.  
+Learn chemistry in the game, with fun and without danger.  
+Built with Unity3D and Leap Motion.
+## [Quiddiards](https://github.com/silencious/Quiddiards)
+![](https://github.com/silencious/Quiddiards/raw/master/Screenshots/1.png)  
+The combination of Billiards and Quidditch.  
+Built with OpenGL and Qt.
+## [ZhiLiao](https://github.com/silencious/ZhiLiao)
+![](https://github.com/silencious/ZhiLiao/raw/master/doc/zhiliao.jpg)  
+Messenger App on Android platform.  
+Written in Java.
+## [LinkGame](https://github.com/silencious/LinkGame)  
+![](https://github.com/silencious/LinkGame/raw/master/Screenshots/2.png)  
+Link the blocks to eliminate them in limited time and gain scores.  
+Built with Qt.
