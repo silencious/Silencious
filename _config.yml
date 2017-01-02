@@ -1,5 +1,6 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
+title: Silencious
+description: Game Developer
+show_downloads: false
 google_analytics:
-theme: 
+theme: jekyll-theme-slate
+repository: silencious/silencious.github.io
