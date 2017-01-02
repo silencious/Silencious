@@ -7,7 +7,8 @@ Will graduate from Shanghai Jiao Tong University in 2017.6 and receive Bachelor 
 My Github Profile: [github.com/silencious](https://www.github.com/silencious)  
 Email Address: tjh0473@gmail.com  
 
-* * *
+* * * 
+
 # Projects  
 
 ## [SoulSummoner](https://github.com/silencious/SoulSummoner)  
