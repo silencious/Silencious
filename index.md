@@ -2,8 +2,11 @@
 layout: default
 ---
 # About Me
-Currently a Unity3D developer (Intern) for the mobile game [横扫千军](https://hs.xd.com/) at [X.D. Network Inc.](https://www.xd.com)  
-Will graduate from Shanghai Jiao Tong University in 2017.6 and receive Bachelor degree in Software Engineering.  
+Current M.S. of Computer Science (Game Development) student at University of Southern California.  
+Previous Unity3D game developer at [X.D. Network Inc.](https://www.xd.com)  
+Graduated from Shanghai Jiao Tong University, Software Engineering. 
+
+
 My Github Profile: [github.com/silencious](https://www.github.com/silencious)  
 Email Address: tjh0473@gmail.com  
 
