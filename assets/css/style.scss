@@ -3,5 +3,7 @@
 
 @import "jekyll-theme-slate";
 
-html,body        {height:100%;}
-.h_iframe iframe {width:100%; height:100%;}
+.text{
+	text-align: justify;
+	text-align-last: justify;
+}
