@@ -3,10 +3,11 @@ layout: default
 ---
 # About Me
 My name is Sil Tian. I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at University of Southern California.  
-Previous Unity3D frontend game developer at [X.D. Network Inc.](https://www.xd.com), Project: [Heng Sao Qian Jun](https://hs.xd.com).  
-B.S in Software Engineering, Shanghai Jiao Tong University.
+I worked as a Unity3D frontend game developer at [X.D. Network Inc.](https://www.xd.com) for the project: [Heng Sao Qian Jun](https://hs.xd.com)  
+I graduated as B.S. in Software Engineering from Shanghai Jiao Tong University.
 
-ARPG, MMO, Location-based game craver. Tactic, Puzzle and Anime lover.  
+I love ARPG, MMO, Location-based games. I also enjoy TCG, Puzzle, Visual Novel and Anime.  
+My favourite games include Ingress, Pokémon, The Elder Scrolls, Fallout, Zelda, Steins;Gate, etc. 
 
 
 Linkedin Profile: [linkedin.com/in/silencious](https://www.linkedin.com/in/silencious/)  
@@ -23,7 +24,7 @@ Email Address: [sil.jh.tian@gmail.com](mailto://sil.jh.tian@gmail.com)
 
 ## [NPRShader](https://github.com/iiidiot/NPR_shader) <small>(2017.10-12)</small>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L-uNIusGE5Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/L-uNIusGE5Q" frameborder="0" allowfullscreen></iframe>
 
 Anime looking NPR shader applied on 3D models.
 
