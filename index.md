@@ -16,6 +16,19 @@ Email Address: [sil.jh.tian@gmail.com](mailto://sil.jh.tian@gmail.com)
 * * *  
 
 # Projects  
+## Catastropieces<small>(2017.09-Now)</small>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/KIJ_o4HcajM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## [NPRShader](https://github.com/iiidiot/NPR_shader) <small>(2017.10-12)</small>  
+
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=L-uNIusGE5Q" frameborder="0" allowfullscreen></iframe> 
+
+Anime looking shader.
+
+## [Heng Sao Qian Jun](https://hs.xd.com)<small>(2016.07-2017.06)</small>  
+![](resources/hsqj.jpg)  
+
+Multiplayer online simulation mobile game.
 
 ## [SoulSummoner](https://github.com/silencious/SoulSummoner) <small>(2016.03-06)</small>  
 
