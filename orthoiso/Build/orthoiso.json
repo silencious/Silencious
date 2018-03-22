@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "orthoiso.data.unityweb",
+"asmCodeUrl": "orthoiso.asm.code.unityweb",
+"asmMemoryUrl": "orthoiso.asm.memory.unityweb",
+"asmFrameworkUrl": "orthoiso.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
