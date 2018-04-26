@@ -17,11 +17,11 @@ Email Address: [sil.jh.tian@gmail.com](mailto://sil.jh.tian@gmail.com)
 * * *  
 
 # Projects  
-## [OrthoIs](https://github.com/silencious/BlueBacon) <small>(2018.01-Now)</small>
+## [OrthoIso](https://github.com/silencious/BlueBacon) <small>(2018.01-Now)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/J9ne1YRQMG0" frameborder="0" allowfullscreen></iframe>
 
 Puzzle Game based on optical illusion in Unity3D. Similar to Monument Valley and FEZ.  
-Website: [orthoiso.com](https://www.orthoiso.com).
+Website: [orthoiso.com](www.orthoiso.com).
 
 ## Catastropieces <small>(2017.09-2018.05)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/KIJ_o4HcajM" frameborder="0" allowfullscreen></iframe>
