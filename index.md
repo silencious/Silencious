@@ -26,7 +26,8 @@ Website: [orthoiso.com](http://www.orthoiso.com).
 ## Catastropieces <small>(2017.09-2018.05)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/t77ZsvrNHGI" frameborder="0" allowfullscreen></iframe>
 
-2.5D Rube Goldenberg machine Puzzle Game built in Unity3D.
+2.5D Rube Goldenberg machine Puzzle Game built in Unity3D.  
+Beta Release download on [itch.io](https://sakuyal.itch.io/catastropieces).
 
 ## [NPRShader](https://github.com/iiidiot/NPR_shader) <small>(2017.10-12)</small>  
 
