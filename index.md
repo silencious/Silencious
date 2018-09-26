@@ -2,7 +2,7 @@
 layout: default
 ---
 # About Me
-My name is Sil Tian. I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at University of Southern California.  
+My name is Sil Tian. I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at University of Southern California. I'm working on an Advanced Game Project [OrthoIso](#OrthoIso) as the Lead Designer and Gameplay Programmer right now.  
 I worked as a Unity3D frontend game developer at [X.D. Network Inc.](https://www.xd.com) for the project: [Heng Sao Qian Jun](https://hs.xd.com)  
 I graduated as B.S. in Software Engineering from Shanghai Jiao Tong University.
 
@@ -12,12 +12,12 @@ My favourite games include Ingress, Pokémon, The Elder Scrolls, Fallout, Zelda,
 
 Linkedin Profile: [linkedin.com/in/silencious](https://www.linkedin.com/in/silencious/)  
 Github Profile: [github.com/silencious](https://www.github.com/silencious)  
-Email Address: [sil.jh.tian@gmail.com](mailto://sil.jh.tian@gmail.com)  
+Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)  
 
 * * *  
 
 # Projects  
-## [OrthoIso](https://github.com/silencious/BlueBacon) <small>(2018.01-Now)</small>
+## <a name="OrthoIso"></a>[OrthoIso](https://github.com/silencious/BlueBacon) <small>(2018.01-Now)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/J9ne1YRQMG0" frameborder="0" allowfullscreen></iframe>
 
 Puzzle Game based on optical illusion in Unity3D. Similar to Monument Valley and FEZ.  
