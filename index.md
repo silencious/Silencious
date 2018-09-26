@@ -3,11 +3,13 @@ layout: default
 ---
 # About Me
 My name is Sil Tian. I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at University of Southern California. I'm working on an Advanced Game Project [OrthoIso](#OrthoIso) as the Lead Designer and Gameplay Programmer right now.  
-I worked as a Unity3D frontend game developer at [X.D. Network Inc.](https://www.xd.com) for the project: [Heng Sao Qian Jun](https://hs.xd.com)  
+
+I worked as a frontend game developer at [X.D. Network Inc.](https://www.xd.com) for project using Unity3D: [Heng Sao Qian Jun](#hsqj)  
+
 I graduated as B.S. in Software Engineering from Shanghai Jiao Tong University.
 
-I love ARPG, MMO, Location-based games. I also enjoy TCG, Puzzle, Visual Novel and Anime.  
-My favourite games include Ingress, Pokémon, The Elder Scrolls, Fallout, Zelda, Steins;Gate, etc. 
+I love ARPG, MMO, AR and Open World games. I also enjoy TCG, Puzzle, Visual Novel and Anime.  
+
 
 
 Linkedin Profile: [linkedin.com/in/silencious](https://www.linkedin.com/in/silencious/)  
@@ -20,10 +22,10 @@ Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)
 ## <a name="OrthoIso"></a>[OrthoIso](https://github.com/silencious/BlueBacon) <small>(2018.01-Now)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/J9ne1YRQMG0" frameborder="0" allowfullscreen></iframe>
 
-Puzzle Game based on optical illusion in Unity3D. Similar to Monument Valley and FEZ.  
+Puzzle Game based on optical illusion. Inspired by Monument Valley, FEZ and Gorogoa.  
 Website: [orthoiso.com](http://www.orthoiso.com).
 
-## Catastropieces <small>(2017.09-2018.05)</small>
+## [Catastropieces](https://sakuyal.itch.io/catastropieces) <small>(2017.09-2018.05)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/t77ZsvrNHGI" frameborder="0" allowfullscreen></iframe>
 
 2.5D Rube Goldenberg machine Puzzle Game built in Unity3D.  
@@ -35,7 +37,7 @@ Beta Release download on [itch.io](https://sakuyal.itch.io/catastropieces).
 
 Anime looking NPR shader applied on 3D models.
 
-## [Heng Sao Qian Jun](https://hs.xd.com)<small>(2016.07-2017.06)</small>  
+## <a name="hsqj"></a>[Heng Sao Qian Jun](https://hs.xd.com)<small>(2016.07-2017.06)</small>  
 ![](resources/hsqj.jpg)  
 
 Multiplayer online simulation mobile game.
