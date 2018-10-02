@@ -11,9 +11,9 @@ I graduated as B.S. in Software Engineering from Shanghai Jiao Tong University.
 I love ARPG, MMO, AR and Open World games. I also enjoy TCG, Puzzle, Visual Novel and Anime.  
 
 
-
-Linkedin Profile: [linkedin.com/in/silencious](https://www.linkedin.com/in/silencious/)  
-Github Profile: [github.com/silencious](https://www.github.com/silencious)  
+Resume: [Resume](https://silencious.github.io/resume.pdf)  
+Linkedin Profile: [linkedin.com/in/sil](https://www.linkedin.com/in/silencious/)  
+Github Profile: [siltian.com](https://www.github.com/silencious)  
 Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)  
 
 * * *  
