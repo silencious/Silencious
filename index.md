@@ -11,9 +11,9 @@ I graduated as B.S. in Software Engineering from Shanghai Jiao Tong University.
 I love ARPG, MMO, AR and Open World games. I also enjoy TCG, Puzzle, Visual Novel and Anime.  
 
 
-Resume: [Resume](https://silencious.github.io/resume.pdf)  
+Resume: [siltian.com/resume.pdf](https://silencious.github.io/resume.pdf)  
 Linkedin Profile: [linkedin.com/in/sil](https://www.linkedin.com/in/silencious/)  
-Github Profile: [siltian.com](https://www.github.com/silencious)  
+Github Profile: [github.com/silencious](https://www.github.com/silencious)  
 Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)  
 
 * * *  
@@ -23,13 +23,15 @@ Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)
 <iframe width="720" height="405" src="https://www.youtube.com/embed/J9ne1YRQMG0" frameborder="0" allowfullscreen></iframe>
 
 Puzzle Game based on optical illusion. Inspired by Monument Valley, FEZ and Gorogoa.  
+Role: Lead Designer, Gameplay Programmer  
 Website: [orthoiso.com](http://www.orthoiso.com).
 
 ## [Catastropieces](https://sakuyal.itch.io/catastropieces) <small>(2017.09-2018.05)</small>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/t77ZsvrNHGI" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/caCR3LKdRbM" frameborder="0" allowfullscreen></iframe>
 
 2.5D Rube Goldenberg machine Puzzle Game built in Unity3D.  
-Beta Release download on [itch.io](https://sakuyal.itch.io/catastropieces).
+Role: Gameplay Programmer
+Release on [itch.io](https://sakuyal.itch.io/catastropieces).
 
 ## [NPRShader](https://github.com/iiidiot/NPR_shader) <small>(2017.10-12)</small>  
 
