@@ -4,7 +4,7 @@ layout: default
 # About Me
 My name is Sil Tian. I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at University of Southern California. I'm working on an Advanced Game Project [OrthoIso](#OrthoIso) as the Lead Designer and Gameplay Programmer right now.  
 
-I worked as a frontend game developer at [X.D. Network Inc.](https://www.xd.com) for project using Unity3D: [Heng Sao Qian Jun](#hsqj)  
+I worked as a Unity game developer at [X.D. Network Inc.](https://www.xd.com) for project [Heng Sao Qian Jun](#hsqj)  
 
 I graduated as B.S. in Software Engineering from Shanghai Jiao Tong University.
 
