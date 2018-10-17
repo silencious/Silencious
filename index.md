@@ -8,7 +8,7 @@ I worked as a Unity game developer at [X.D. Network Inc.](https://www.xd.com) fo
 
 I graduated as B.S. in Software Engineering from Shanghai Jiao Tong University.
 
-I love ARPG, MMO, AR and Open World games. I also enjoy TCG, Puzzle, Visual Novel and Anime.  
+I love ARPG, MMO, AR and Open World games. I also enjoy TCG, Puzzler, Visual Novel and Anime.  
 
 
 Resume: [siltian.com/resume.pdf](https://silencious.github.io/resume.pdf)  
@@ -22,7 +22,7 @@ Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)
 ## <a name="OrthoIso"></a>[OrthoIso](https://github.com/silencious/BlueBacon) <small>(2018.01-Now)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/J9ne1YRQMG0" frameborder="0" allowfullscreen></iframe>
 
-Puzzle Game based on optical illusion. Inspired by Monument Valley, FEZ and Gorogoa.  
+Puzzle Platformer based on optical illusion. Inspired by Monument Valley, FEZ and Gorogoa.  
 Role: Lead Designer, Gameplay Programmer  
 Website: [orthoiso.com](http://www.orthoiso.com).
 
