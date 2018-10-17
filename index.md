@@ -4,7 +4,7 @@ layout: default
 # About Me
 My name is Sil Tian. I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at University of Southern California. I'm working on an Advanced Game Project [OrthoIso](#OrthoIso) as the Lead Designer and Gameplay Programmer right now.  
 
-I worked as a Unity game developer at [X.D. Network Inc.](https://www.xd.com) for project [Heng Sao Qian Jun](#hsqj)  
+I worked as a Unity game developer at [X.D. Network Inc.](https://www.xd.com) for project [Heng Sao Qian Jun](#hsqj).  
 
 I graduated as B.S. in Software Engineering from Shanghai Jiao Tong University.
 
@@ -12,7 +12,7 @@ I love ARPG, MMO, AR and Open World games. I also enjoy TCG, Puzzler, Visual Nov
 
 
 Resume: [siltian.com/resume.pdf](https://silencious.github.io/resume.pdf)  
-Linkedin Profile: [linkedin.com/in/sil](https://www.linkedin.com/in/silencious/)  
+Linkedin Profile: [linkedin.com/in/sil](https://www.linkedin.com/in/sil/)  
 Github Profile: [github.com/silencious](https://www.github.com/silencious)  
 Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)  
 
