@@ -19,8 +19,8 @@ Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)
 * * *  
 
 # Projects  
-## <a name="OrthoIso"></a>[OrthoIso](https://github.com/silencious/BlueBacon) <small>(2018.01-Now)</small>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/J9ne1YRQMG0" frameborder="0" allowfullscreen></iframe>
+## <a name="OrthoIso"></a>[OrthoIso](http://www.orthoiso.com) <small>(2018.01-Now)</small>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/SnO6lpmvx3k" frameborder="0" allowfullscreen></iframe>
 
 Puzzle Platformer based on optical illusion. Inspired by Monument Valley, FEZ and Gorogoa.  
 Role: Lead Designer, Gameplay Programmer  
