@@ -2,13 +2,16 @@
 layout: default
 ---
 # About Me
-My name is Sil Tian. I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at University of Southern California. I'm working on an Advanced Game Project [OrthoIso](#OrthoIso) as the Lead Designer and Gameplay Programmer right now.  
+My name is Sil Tian.  
+I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at University of Southern California.  
+I'm working on an Advanced Game Project [OrthoIso](#OrthoIso) as the Lead Designer and Gameplay Programmer right now.  
 
 I worked as a Unity game developer at [X.D. Network Inc.](https://www.xd.com) for project [Heng Sao Qian Jun](#hsqj).  
 
 I graduated as B.S. in Software Engineering from Shanghai Jiao Tong University.
 
-I love ARPG, MMO, AR and Open World games. I also enjoy TCG, Puzzler, Visual Novel and Anime.  
+I love ARPG, MMO, AR and Open World games.  
+I also enjoy TCG, Puzzler, Visual Novel and Anime.  
 
 
 Resume: [siltian.com/resume.pdf](https://silencious.github.io/resume.pdf)  
@@ -23,15 +26,24 @@ Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)
 <iframe width="720" height="405" src="https://www.youtube.com/embed/SnO6lpmvx3k" frameborder="0" allowfullscreen></iframe>
 
 Puzzle Platformer based on optical illusion. Inspired by Monument Valley, FEZ and Gorogoa.  
-Role: Lead Designer, Gameplay Programmer  
+Role: Lead Designer, Gameplay Engineer  
 Website: [orthoiso.com](http://www.orthoiso.com).
 
 ## [Catastropieces](https://sakuyal.itch.io/catastropieces) <small>(2017.09-2018.05)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/caCR3LKdRbM" frameborder="0" allowfullscreen></iframe>
 
 2.5D Rube Goldenberg machine Puzzle Game built in Unity3D.  
-Role: Gameplay Programmer
+Role: Gameplay Engineer  
 Release on [itch.io](https://sakuyal.itch.io/catastropieces).
+
+## [Prime Engine Game](https://youtu.be/HI29vYOtwDk) <small>(2017.09-2018.05)</small>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/HI29vYOtwDk" frameborder="0" allowfullscreen></iframe>
+
+FPS using Customized Game Engine in C++  
+I worked on 3D math of matrix transformation and shaders to implement  
+Character Animation, AABB Collision, 3D Sound, Particle and UI.  
+Role: Generalist Engineer  
+Demos for two semesters: [Fall](https://www.youtube.com/watch?v=zO1Xay4gfqM) and [Spring](https://youtu.be/HI29vYOtwDk)
 
 ## [NPRShader](https://github.com/iiidiot/NPR_shader) <small>(2017.10-12)</small>  
 
@@ -42,7 +54,8 @@ Anime looking NPR shader applied on 3D models.
 ## <a name="hsqj"></a>[Heng Sao Qian Jun](https://hs.xd.com)<small>(2016.07-2017.06)</small>  
 ![](resources/hsqj.jpg)  
 
-Multiplayer online simulation mobile game.
+Multiplayer online simulation mobile game.  
+1,000,000+ Monthly Active Users
 
 ## [SoulSummoner](https://github.com/silencious/SoulSummoner) <small>(2016.03-06)</small>  
 
