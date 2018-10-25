@@ -4,7 +4,7 @@ layout: default
 # About Me
 My name is Sil Tian.  
 I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at [USC](https://www.usc.edu/).  
-I'm working on the [AGP](http://gamepipe.usc.edu/files/b927ebd0746f70d8200a783ac0fb3cf5-51.php) [OrthoIso](#OrthoIso) as the Lead Designer and Gameplay Programmer right now.  
+I'm the Lead Designer and Gameplay Programmer of [AGP](http://gamepipe.usc.edu/files/b927ebd0746f70d8200a783ac0fb3cf5-51.php) [OrthoIso](#OrthoIso).  
 
 I worked as a Unity game developer at [X.D. Network Inc.](https://www.xd.com) for project [Heng Sao Qian Jun](#hsqj).  
 
@@ -25,7 +25,8 @@ Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)
 ## <a name="OrthoIso"></a>[OrthoIso](http://www.orthoiso.com) <small>(2018.01-Now)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/SnO6lpmvx3k" frameborder="0" allowfullscreen></iframe>
 
-Puzzle Platformer based on optical illusion. Inspired by Monument Valley, FEZ and Gorogoa.  
+Puzzle Platformer based on optical illusion.  
+Inspired by Monument Valley, FEZ, Gorogoa and many other puzzle games.  
 Role: Lead Designer, Gameplay Engineer  
 Website: [orthoiso.com](http://www.orthoiso.com).
 
