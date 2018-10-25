@@ -8,7 +8,7 @@ I'm the Lead Designer and Gameplay Programmer of [AGP](http://gamepipe.usc.edu/f
 
 I worked as a Unity game developer at [X.D. Network Inc.](https://www.xd.com) for project [Heng Sao Qian Jun](#hsqj).  
 
-I graduated as B.S. in Software Engineering from Shanghai Jiao Tong University.
+I graduated as B.S. in [Software Engineering](http://www.se.sjtu.edu.cn/) from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
 
 I love ARPG, MMO, AR and Open World games.  
 I also enjoy TCG, Puzzler, Visual Novel and Anime.  
