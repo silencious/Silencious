@@ -3,8 +3,8 @@ layout: default
 ---
 # About Me
 My name is Sil Tian.  
-I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at University of Southern California.  
-I'm working on an Advanced Game Project [OrthoIso](#OrthoIso) as the Lead Designer and Gameplay Programmer right now.  
+I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at [USC](https://www.usc.edu/).  
+I'm working on the [AGP](http://gamepipe.usc.edu/files/b927ebd0746f70d8200a783ac0fb3cf5-51.php) [OrthoIso](#OrthoIso) as the Lead Designer and Gameplay Programmer right now.  
 
 I worked as a Unity game developer at [X.D. Network Inc.](https://www.xd.com) for project [Heng Sao Qian Jun](#hsqj).  
 
