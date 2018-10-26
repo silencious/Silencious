@@ -1,7 +1,25 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "OrthoIso"
+    url: /#orthoiso
+  - title: "Catastropieces"
+    url: /#catastropieces
+  - title: "Prime Engine Game"
+    url: /#primeengine
+  - title: "NPRShader"
+    url: /#nprshader
+  - title: "Heng Sao Qian Jun"
+    url: /#hsqj
+  - title: "SoulSummoner"
+    url: /#soulsummoner
+  - title: "ChemIt"
+    url: /#chemit
+  - title: "Quiddards"
+    url: /#quiddiards
+  - title: "ZhiLiao"
+    url: /#zhiliao
+  - title: "LinkGame"
+    url: /#linkgame
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
