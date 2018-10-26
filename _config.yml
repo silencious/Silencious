@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "default" "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sil Jiahe Tian"
+title                    : "Sil Tian"
 title_separator          : "-"
 name                     : "Sil Jiahe Tian"
 description              : "Game Developer"
@@ -105,11 +105,14 @@ author:
   avatar           : "/assets/images/bio.png"
   bio              : "Game Developer"
   location         : "Los Angeles, United States"
-  email            : "tjh0473@gmail.com"
+  # email            : "tjh0473@gmail.com"
   links:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: mailto:tjh0473@gmail.com
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:tjh0473@gmail.com
+    - label: "Mobile"
+      icon: "fas fa-fw fa-phone-square"
+      url: tel:+1-213-431-7038
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://siltian.com"
