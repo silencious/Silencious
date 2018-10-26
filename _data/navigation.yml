@@ -1,25 +1,9 @@
 # main links
 main:
-  - title: "OrthoIso"
-    url: /#orthoiso
-  - title: "Catastropieces"
-    url: /#catastropieces
-  - title: "Prime Engine Game"
-    url: /#primeengine
-  - title: "NPRShader"
-    url: /#nprshader
-  - title: "Heng Sao Qian Jun"
-    url: /#hsqj
-  - title: "SoulSummoner"
-    url: /#soulsummoner
-  - title: "ChemIt"
-    url: /#chemit
-  - title: "Quiddards"
-    url: /#quiddiards
-  - title: "ZhiLiao"
-    url: /#zhiliao
-  - title: "LinkGame"
-    url: /#linkgame
+    - title: Project
+      url: 
+    - title: Blog
+      url: 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -28,3 +12,28 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+projects:
+  - title: Project
+    url: /#project
+    children:
+      - title: "OrthoIso"
+        url: /#orthoiso
+      - title: "Catastropieces"
+        url: /#catastropieces
+      - title: "Prime Engine Game"
+        url: /#primeengine
+      - title: "NPRShader"
+        url: /#nprshader
+      - title: "Heng Sao Qian Jun"
+        url: /#hsqj
+      - title: "SoulSummoner"
+        url: /#soulsummoner
+      - title: "ChemIt"
+        url: /#chemit
+      - title: "Quiddards"
+        url: /#quiddiards
+      - title: "ZhiLiao"
+        url: /#zhiliao
+      - title: "LinkGame"
+        url: /#linkgame
