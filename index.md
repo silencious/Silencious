@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: default
+author_profile: true
 sidebar:
 	nav: "projects"
 ---
