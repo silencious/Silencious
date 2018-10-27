@@ -2,12 +2,12 @@
 layout: single
 author_profile: true
 sidebar:
-	nav: "docs"
+	nav: "projects"
 ---
 
 <!-- # About Me -->
 <a name="top"></a>
-My name is Sil Tian.  
+My name is Sil  Tian.  
 I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at [USC](https://www.usc.edu/).  
 I'm the Lead Designer and Gameplay Programmer of [AGP](http://gamepipe.usc.edu/files/b927ebd0746f70d8200a783ac0fb3cf5-51.php) [OrthoIso](#orthoiso).  
 
