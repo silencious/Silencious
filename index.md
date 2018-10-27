@@ -1,6 +1,8 @@
 ---
 layout: single
 author_profile: true
+sidebar:
+	nav: "projects"
 ---
 
 <!-- # About Me -->
@@ -61,7 +63,7 @@ Anime looking NPR shader applied on 3D models.
 
 <a name="hsqj"></a>
 ## [Heng Sao Qian Jun](https://hs.xd.com)<small>(2016.07-2017.06)</small>  
-![](resources/hsqj.jpg)  
+![](assets/images/hsqj.jpg)  
 
 Multiplayer online simulation mobile game.  
 1,000,000+ Monthly Active Users
