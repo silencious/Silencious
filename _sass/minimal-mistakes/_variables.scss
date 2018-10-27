@@ -141,8 +141,11 @@ $x-large: 1280px !default;
    ========================================================================== */
 
 $right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width: 250px !default;
+$right-sidebar-width-wide: 300px !default;
+$left-sidebar-width-narrow: $right-sidebar-width-narrow - 80px !default;
+$left-sidebar-width: $right-sidebar-width - 80px !default;
+$left-sidebar-width-wide: $right-sidebar-width-wide - 80px !default;
 
 /*
    Other

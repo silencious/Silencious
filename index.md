@@ -1,30 +1,26 @@
 ---
-layout: default
+layout: single
 author_profile: true
-sidebar:
-	title: "Projects"
+# sidebar:
+#   nav: projects
+# classes: wide
+toc: true
+toc_sticky: true
 ---
 
-<!-- # About Me -->
+# About Me
 <a name="top"></a>
 My name is Sil Tian.  
 I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at [USC](https://www.usc.edu/).  
 I'm the Lead Designer and Gameplay Programmer of [AGP](http://gamepipe.usc.edu/files/b927ebd0746f70d8200a783ac0fb3cf5-51.php) [OrthoIso](#orthoiso).  
 
-I worked as a Unity game developer at [X.D. Network Inc.](https://www.xd.com) for project [Heng Sao Qian Jun](#hsqj).  
+I worked at [X.D. Network Inc.](https://www.xd.com) as a gameplay engineer for [Heng Sao Qian Jun](#hsqj).  
 
 I graduated as B.S. in [Software Engineering](http://www.se.sjtu.edu.cn/) from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
 
 I love ARPG, MMO, AR and Open World games.  
 I also enjoy TCG, Puzzler, Visual Novel and Anime.  
 
-
-Resume: [siltian.com/resume.pdf](https://silencious.github.io/resume.pdf)  
-Linkedin Profile: [linkedin.com/in/sil](https://www.linkedin.com/in/sil/)  
-Github Profile: [github.com/silencious](https://www.github.com/silencious)  
-Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)  
-
-* * *  
 
 # Projects  
 <a name="orthoiso"></a>
