@@ -1,6 +1,9 @@
 ---
 layout: single
 author_profile: true
+sidebar:
+	title: "Projects"
+	nav: projects
 ---
 
 <!-- # About Me -->
