@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 sidebar:
-	nav: "projects"
+	nav: "docs"
 ---
 
 <!-- # About Me -->
