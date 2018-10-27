@@ -1,11 +1,11 @@
 # main links
 main:
     - title: Project
-      url: 
+      url: /#projects
     - title: Blog
-      url: 
+      url: /blog
     - title: About
-      url: 
+      url: /#top
 
 projects:
     - title: "OrthoIso"
