@@ -3,7 +3,8 @@ layout: single
 author_profile: true
 ---
 
-# <a name="top"></a>About Me
+# About Me
+<a name="top"></a>
 My name is Sil Tian.  
 I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at [USC](https://www.usc.edu/).  
 I'm the Lead Designer and Gameplay Programmer of [AGP](http://gamepipe.usc.edu/files/b927ebd0746f70d8200a783ac0fb3cf5-51.php) [OrthoIso](#orthoiso).  
@@ -24,7 +25,8 @@ Email Address: [tjh0473@gmail.com](mailto://tjh0473@gmail.com)
 * * *  
 
 # Projects  
-## <a name="orthoiso"></a>[OrthoIso](http://www.orthoiso.com) <small>(2018.01-Now)</small>
+<a name="orthoiso"></a>
+## [OrthoIso](http://www.orthoiso.com) <small>(2018.01-Now)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/SnO6lpmvx3k" frameborder="0" allowfullscreen></iframe>
 
 Puzzle Platformer based on optical illusion.  
@@ -32,14 +34,16 @@ Inspired by Monument Valley, FEZ, Gorogoa and many other puzzle games.
 Role: Lead Designer, Gameplay Engineer  
 Website: [orthoiso.com](http://www.orthoiso.com).
 
-## <a name="catastropieces"></a>[Catastropieces](https://sakuyal.itch.io/catastropieces) <small>(2017.09-2018.05)</small>
+<a name="catastropieces"></a>
+## [Catastropieces](https://sakuyal.itch.io/catastropieces) <small>(2017.09-2018.05)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/caCR3LKdRbM" frameborder="0" allowfullscreen></iframe>
 
 2.5D Rube Goldenberg machine Puzzle Game built in Unity3D.  
 Role: Gameplay Engineer  
 Release on [itch.io](https://sakuyal.itch.io/catastropieces).
 
-## <a name="primeengine"></a>[Prime Engine Game](https://youtu.be/HI29vYOtwDk) <small>(2017.09-2018.05)</small>
+<a name="primeengine"></a>
+## [Prime Engine Game](https://youtu.be/HI29vYOtwDk) <small>(2017.09-2018.05)</small>
 <iframe width="720" height="405" src="https://www.youtube.com/embed/HI29vYOtwDk" frameborder="0" allowfullscreen></iframe>
 
 FPS using Customized Game Engine in C++.  
@@ -48,13 +52,15 @@ Character Animation, AABB Collision, 3D Sound, Particle and UI.
 Role: Generalist Engineer  
 Demos for two semesters: [Fall](https://www.youtube.com/watch?v=zO1Xay4gfqM) and [Spring](https://youtu.be/HI29vYOtwDk)
 
-## <a name="nprshader"></a>[NPRShader](https://github.com/iiidiot/NPR_shader) <small>(2017.10-12)</small>  
+<a name="nprshader"></a>
+## [NPRShader](https://github.com/iiidiot/NPR_shader) <small>(2017.10-12)</small>  
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/L-uNIusGE5Q" frameborder="0" allowfullscreen></iframe>
 
 Anime looking NPR shader applied on 3D models.
 
-## <a name="hsqj"></a>[Heng Sao Qian Jun](https://hs.xd.com)<small>(2016.07-2017.06)</small>  
+<a name="hsqj"></a>
+## [Heng Sao Qian Jun](https://hs.xd.com)<small>(2016.07-2017.06)</small>  
 ![](resources/hsqj.jpg)  
 
 Multiplayer online simulation mobile game.  
