@@ -13,7 +13,7 @@ My name is Sil Tian.
 I'm a current [M.S. in Computer Science (Game Development)](https://www.cs.usc.edu/masters/game-development) student at [USC](https://www.usc.edu/).  
 I'm the Lead Designer and Gameplay Programmer of [AGP](http://gamepipe.usc.edu/files/b927ebd0746f70d8200a783ac0fb3cf5-51.php) [OrthoIso](#orthoiso).  
 
-I worked at [X.D. Network Inc.](https://www.xd.com) as a gameplay engineer for [Heng Sao Qian Jun](#hsqj).  
+I worked at [X.D. Network Inc.](https://www.xd.com) as a gameplay engineer for [横扫千军](#hsqj).  
 
 I graduated as B.S. in [Software Engineering](http://www.se.sjtu.edu.cn/) from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
 
@@ -68,7 +68,7 @@ Anime looking NPR shader applied on 3D models.
 
 <a name="hsqj"></a>
 
-## [Heng Sao Qian Jun](https://hs.xd.com) <small>(2016.07-2017.06)</small>  
+## [横扫千军](https://hs.xd.com) <small>(2016.07-2017.06)</small>  
 ![](assets/images/hsqj.jpg)  
 
 Multiplayer online simulation mobile game.  
