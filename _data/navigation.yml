@@ -17,7 +17,7 @@ main:
 
 projects:
   - title: Project
-    url: /#project
+    # url: /#project
     children:
       - title: "OrthoIso"
         url: /#orthoiso
